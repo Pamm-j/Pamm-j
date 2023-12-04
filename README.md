@@ -1,5 +1,5 @@
 ## Hi there, I'm Pamm-j, welcome to my GitHub! 👩‍💻
-I am a former science teacher turned full stack software developer. I am passionate about good planning, be that planning a bike-packing trip, following an efficient git and pull workflow or optimizing UI/UX. 
+As a former science teacher turned full stack developer, I'm obsessed with finding the best solutions. I love diving into new technologies and applying them to create efficient, user-friendly interfaces and workflows. My passion for learning drives every project, whether it's coding or planning an adventure. Let's explore and innovate together!
 
 <details>
  <summary>📈 Statistics</summary>
