@@ -36,4 +36,3 @@ Circuits is a puzzle game heavily influenced by Loopz for NES. Users direct piec
 Technologies: *JavaScript, jQuery, Canvas API, HTML, CSS / SCSS, Git*
 <br/>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
